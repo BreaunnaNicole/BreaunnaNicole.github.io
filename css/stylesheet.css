@@ -1,0 +1,153 @@
+.top_nav p{
+    font-size: 200%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* margin-bottom:15%; */
+    font-family: 'Lobster', cursive;
+}
+
+.top_nav ol{ list-style: none;
+    margin-left: 15%;
+    padding-bottom: -10%;
+    margin-top: 1%;
+}
+
+.top_nav li {
+    display: inline;
+    font-size: 130%;
+    margin-right:3%;
+    padding-top: 30%;
+}
+
+.top_nav {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.main_img{ 
+background-image: url(img/clement-h-544786-unsplash_f143da94710188ff3e517fdfc51fc4d8.jpg);
+background-repeat: no-repeat;
+background-size:677px 350px;
+box-shadow: 0 0 10px 2px #282a2d;
+padding-bottom: 2%;
+background-color: 
+#DAF7A6;
+}
+
+.main_img img{
+width: 200px;
+height: 250px;
+overflow: hidden;
+border-radius: 50%;
+margin-left:132%;
+margin-top: 10%;    
+}
+
+.projects_1 img {
+    box-shadow: 0 0 10px 2px #282a2d;
+}
+
+
+.main_img p {
+    margin-top: 45%;
+    font-size: 17px;   
+}
+
+.main_img h1{
+    margin-left: 30%;
+    padding-bottom: 3%;
+}
+
+body{
+    color: #eabe3b;
+    font-family: 'Lobster', cursive;
+    }
+
+
+.projects_1 {
+    background-color: #BDC3C7 ;
+    box-shadow: 0 0 10px 2px #282a2d;
+}
+
+
+.projects_1 form{
+    margin-left: 30%;
+}
+
+.projects h2 {
+    margin-left: 84%;
+    padding-bottom: 5%;
+    font-size: 350%;  
+} 
+
+.blp h3 {
+    margin-left: 15%;
+}
+
+.blp_1 h3 { 
+    margin-left:20%;
+}
+
+.blp_3 h3 { 
+    margin-left: 30%;
+}
+
+footer {
+    background-color: #F2F4F4;
+    box-shadow: 0 0 10px 2px #282a2d;
+}
+
+:link {
+    color: black;
+}
+
+
+
+.projects_1 input{
+    margin-left: 30%;
+    float: left;
+}
+
+.footer_1 button{
+    padding-left: 60%;
+}
+
+.footer ul {
+    list-style: none;
+    
+    
+}
+
+.footer li {
+display: inline;
+margin-left: 10%;
+}
+
+footer {
+    font-size: 15px;
+}
+
+.footer h4 {
+    margin-left: 45%;
+    padding-bottom: 1%;
+    font-size: 20px;
+}
+
+.certi {
+    margin-left: 24%;
+    padding-bottom: 3%;
+}
+
+.certi h4{
+    margin-left: 18%;
+    margin-top: 2%;
+    font-size: 350%;
+    margin-bottom: 2%;
+}
+
+
+
+
+
+
+
+
